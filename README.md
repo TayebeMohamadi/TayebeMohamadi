@@ -1,4 +1,5 @@
 ### Hi everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=TayebeMohamadi/TayebeMohamadi)
 [![Github](https://img.shields.io/github/followers/TayebeMohamadi?label=Follow&style=social)](https://github.com/TayebeMohamadi)
 
 
